@@ -1,0 +1,70 @@
+/*Tables.css: this is css for aia.html, portal page*/
+
+h1 {
+    color:dodgerblue;
+}
+h2.subheader{
+    color:coral;
+}
+
+table {
+    border: 1px solid #000;
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+    background-color: #fff;  
+    
+}
+
+
+td {
+     border:4px solid darkblue; 
+     padding:5px; 
+     width:300px;
+     background-color:#00d1d12e;
+     }
+
+tr {
+    vertical-align: top;   
+}
+
+.iabullets ul li {
+    list-style-type:circle;
+}
+
+table.client {
+    margin: 40px auto; /* T R B L */   
+}
+	      	
+table.client th {
+    width:300px;
+    text-align:left;
+    border:4px solid darkblue;
+    padding:5px;
+    background-color:floralwhite;
+   font-weight: bold;
+    }
+
+table.audience th {
+    margin: 40px auto; /* T R B L */
+    width: 25%;
+    font-style: bold;
+    text-align:left;
+    border:4px solid darkblue;
+    padding:5px;
+    background-color:#ff46007d;
+   }
+
+table.audience h3{
+    font-weight: bold;
+}
+
+table.audience th.AudClm{
+    width: 50%;
+}
+	        
+
+body {
+    display:block;
+    
+}

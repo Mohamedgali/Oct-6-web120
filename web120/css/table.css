@@ -1,0 +1,74 @@
+
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+  padding: 15px;
+
+} 
+td {
+    text-align: center;
+    
+}
+
+
+
+table, th {
+  border: 1px solid black;
+    background: #fefbd8;
+}   
+
+
+
+
+
+
+
+/*table, thead, tbody, th, td, tr, caption {
+    
+}
+
+thead tr {
+    display: none;
+}
+
+#mainContent table tr:nth-of-type(even) {
+    background-color: rgba(102,51,121,.25);
+}
+
+td {
+    border: none;
+    position: relative;
+    text-align: center;
+}
+
+td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    text-align: left;
+    
+}
+
+td:nth-of-type(1):before {
+    content: "Food Name:";
+}
+td:nth-of-type(2):before {
+    content: "food description and base ingredients:";
+}
+td:nth-of-type(3):before {
+    content: "Prices:";
+}
+*/
